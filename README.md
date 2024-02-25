@@ -61,7 +61,7 @@ This Discord bot was created by [Sparks](https://github.com/sparks33).
 
 ## Tutorial
 
-For a detailed tutorial on setting up and customizing this bot, check out the video tutorial on my YouTube channel: [Your YouTube Channel Name](https://www.youtube.com/yourchannel).
+For a detailed tutorial on setting up and customizing this bot, check out the video tutorial on my YouTube channel: [QUANTOM](https://www.youtube.com/@quantomz).
 
 ## Contributing
 
