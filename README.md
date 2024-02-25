@@ -16,7 +16,7 @@ This Discord bot utilizes Google's Generative AI to generate responses based on 
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/discord-generative-ai-bot.git
+   git clone https://github.com/Sparks33/Gemini-AI-Discord-Bot.git
    ```
 
 2. Navigate to the project folder:
